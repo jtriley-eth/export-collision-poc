@@ -1,0 +1,6 @@
+[package]
+name = "export_collision_poc"
+type = "lib"
+authors = [""]
+
+[dependencies]
